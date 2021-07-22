@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+    flex: 1;
+    
+  }
+  
+.add{
+  position: sticky;
+  bottom:8px;
+  right: 16px;
+  margin-left: 187vh;
+  margin-bottom: 30px;
+}
